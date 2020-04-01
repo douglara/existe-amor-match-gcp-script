@@ -16,9 +16,13 @@ Após realizar a copia do formulário oficial, crie ou abra sua planilha do Goog
 A partir dessa planilha que o script vai rodar.
 
 ### 1 - Criar script
-Para iniciar a instalação clique em **Ferramentas** e em seguida **Editor de script**
 
-![enter image description here](https://lh3.googleusercontent.com/30--oPmE7YaxIocRa-SUiEoC6dPuaJfNkwA-_phoxxwkuzCcD-8VJqOLWhKjd-cc5is1zGND-GcmGdWUKGnA6J_9UExVDmE2SzuorB3VOa9zcMjPVufL76vBe5VyjqshCCTdF7NiANHjxz58susokOx52Ug3qqTpE768cyK6PVfkDUyX70u9snDrFQNSyH1h9LpwSJUY3JlvZ8z6Qi-OxH99qvRqQ-G2kct22AzRZbLc64c86DHSXNA-DRwH7Tazd01fRSy97C9_YKBO4O4hAWW_YDqP0uryAdmMgE2t9GdtaZqdX8D4V8YVcDaIfeZuaMJe3y7TgafIhu4xuyp0GkwObUAKWsNxBtGqYRNoYychfId9lbqbQVA-Xg4GaGLstQuxQrw_8R4fQU97e5p6lhuqaJuc_Be96YCV6o_60qSSVVfmyvug4nGs6ik1GA-IsTeSgzdECJwTbuDMg8dvtULzQVZRiJauk4QDJuu_TOO9KOgW-NiRRDQkB7YLd-6TkElIpRDl23yKKJQLfCmrsyn1mDFcZUOT3ssMt5LizsuGzRF1Y0DsJu1bFPyPI3VtH04O3J9FlOKwF69xISqNz999A0vG5OFlBH3jieXsnaz41opD_tCL4AIUElfofHjGiYnxxXEoZohTmlzRMPNXNua58fMJ_ya3LPlW5iBPJ43JXIYaPK4wZwD_iONrKQ=w345-h478-no)
+Confirme se a tabela onde o formulário grava as respostas esta com o nome **Respostas**
+
+Em seguida para iniciar a instalação clique em **Ferramentas** e em seguida **Editor de script**
+
+![enter image description here](https://i.imgur.com/b2UO8t6.png)
+![enter image description here](https://i.imgur.com/V66mAX5.png)
 
 ### 2 - Salvando o script
 Copie e cole o código do arquivo Código.gs aqui do Github para dentro do arquivo Código.gs do editor de scripts do Google.
