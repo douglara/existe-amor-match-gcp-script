@@ -1,5 +1,5 @@
 # Projeto Existe Amor
-![enter image description here](https://lh5.googleusercontent.com/GFCc6GR4_O3cxS_WUpEieKv-LP-wIkTKRnXHlEMi2N_llUbvXzNBKd69gysdntGqDFyJ0_E=w16383 =80x)
+![enter image description here](https://i.imgur.com/Nevxi8a.jpg)
 Para saber mais sobre o projeto [clique aqui.](https://sites.google.com/view/existeamoremcuritiba)
 # Match GCP Script
 Esse script foi desenvolvido para realizar o match entre pessoas e organizações que precisam de alguma ajuda ou podem ajudar de alguma forma utilizando a Google Cloud Platform.
@@ -41,7 +41,7 @@ E na opção **Configurações de notificação de falha** selecione **Receber n
 ### 5 - Tudo certo!
 **Você** configurou o script de match =)
 Faça um experimento no seu formulário para checar se tudo esta funcionando como o esperado.
-![enter image description here](https://i.imgur.com/m6Z9hCE.jpg =500x)
+![enter image description here](https://i.imgur.com/m6Z9hCE.jpg)
 
 # Contribuir / Problemas?
 Se você encontrar qualquer problema, dificuldade, sugestão ou bug, por favor abra uma issue no Github ou pode nos contatar diretamente pelo email oficial do projeto: existeamor.curitiba@gmail.com
