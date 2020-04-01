@@ -64,7 +64,7 @@ function createEmailContent(user) {
 // Obtem as ajudas que dão match
 function getSupporters(user) {
   
-  var sheet = SpreadsheetApp.getActive().getSheetByName('Respostas ao formulário 1');
+  var sheet = SpreadsheetApp.getActive().getSheetByName('Respostas');
   var data = sheet.getDataRange().getValues();
   
   var orgnizationsSupporters = []
