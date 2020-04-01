@@ -56,7 +56,7 @@ E na opção **Configurações de notificação de falha** selecione **Receber n
 
 Faça um experimento no seu formulário para checar se tudo esta funcionando como o esperado.
 
-![enter image description here](blob:https://imgur.com/3f0b8079-437f-4659-a58b-13c35ba4f62b)
+![enter image description here](https://i.imgur.com/iDRN3Sf.jpg)
 
 # Contribuir / Problemas?
 
